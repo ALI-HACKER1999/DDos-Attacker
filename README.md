@@ -7,7 +7,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Download & Install
 
-### git clone https://github.com/ALI-HACKER1999/DDos-Attacker.git
+### git clone https://github.com/ALI-HACKER1999/DDos-Attacker
 
 ### cd DDos-Attacker
 
