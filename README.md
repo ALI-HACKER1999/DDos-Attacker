@@ -17,4 +17,4 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### write your Target IP
 
-### write  port to start DDos Attack (example : 80 , 23 , 4444 , 8080 , 3000 and ...)
+### write  port to start DDos Attack (example : 80 , 23 , 4444 , 8080 , 3000 or ...)
