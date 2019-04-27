@@ -19,10 +19,10 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet DDos Attacker")
-print
-print "Author   : ALI-HACKER1999"
-print "github   : https://github.com/ALI-HACKER1999/DDos-Attacker.git"
-print
+print "================================================================="
+print "Creator   : ALI HACKER1999"
+print "GitHub   : https://github.com/ALI-HACKER1999/DDos-Attacker.git"
+print "================================================================="
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
